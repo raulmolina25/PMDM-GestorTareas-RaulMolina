@@ -68,14 +68,14 @@ La conexión a Internet solo es necesaria para consultar las tareas de ejemplo.
 
 Durante las pruebas se utilizan dos emuladores con diferentes configuraciones para comprobar la adaptación y el funcionamiento de la aplicación.
 
-| Característica | Emulador 1 | Emulador 2 |
+| Característica | Emulador 2 | Emulador 2 |
 |---|---|---|
-| Modelo | PENDIENTE | PENDIENTE |
-| Versión de Android | PENDIENTE | PENDIENTE |
-| Nivel de API | PENDIENTE | PENDIENTE |
-| Resolución | PENDIENTE | PENDIENTE |
-| Tamaño de pantalla | PENDIENTE | PENDIENTE |
-| Memoria RAM | PENDIENTE | PENDIENTE |
+| Modelo | Medium Phone | Medium Tablet |
+| Versión de Android | 16.0 | 15.0 |
+| Nivel de API | 36.0 | 35 |
+| Resolución | 1080 × 2400 px | 2560 x 1600 px |
+| Tamaño de pantalla | 6,4" | 10,05" |
+| Memoria RAM | 2GB | 1.9GB |
 
 ## 7. Pruebas realizadas y resultados
 
