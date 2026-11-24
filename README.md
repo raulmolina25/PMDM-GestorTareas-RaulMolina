@@ -131,7 +131,7 @@ Durante las pruebas se utilizan dos emuladores con diferentes configuraciones pa
 
 Durante el desarrollo del proyecto se ha utilizado ChatGPT como herramienta de apoyo para la planificación, el aprendizaje, la resolución de dudas y la revisión del código.
 
-[Chat utilizado durante el desarrollo](URL_DEL_CHAT)
+https://chatgpt.com/share/6b057475-cef0-83ed-9ace-2c0625a18780
 
 ## 10. Incidencias conocidas y funcionalidades pendientes
 
