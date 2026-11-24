@@ -68,7 +68,7 @@ La conexión a Internet solo es necesaria para consultar las tareas de ejemplo.
 
 Durante las pruebas se utilizan dos emuladores con diferentes configuraciones para comprobar la adaptación y el funcionamiento de la aplicación.
 
-| Característica | Emulador 2 | Emulador 2 |
+| Característica | Emulador 1 | Emulador 2 |
 |---|---|---|
 | Modelo | Medium Phone | Medium Tablet |
 | Versión de Android | 16.0 | 15.0 |
