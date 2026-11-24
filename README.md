@@ -81,25 +81,25 @@ Durante las pruebas se utilizan dos emuladores con diferentes configuraciones pa
 
 | ID | Prueba | Resultado esperado | Resultado obtenido |
 |---|---|---|---|
-| P01 | Crear una tarea válida | La tarea aparece en el listado. | Pendiente |
-| P02 | Introducir un título vacío | Se muestra un mensaje de error. | Pendiente |
-| P03 | Introducir un título de menos de tres caracteres | No se permite guardar. | Pendiente |
-| P04 | Crear una tarea sin descripción | La tarea se guarda correctamente. | Pendiente |
-| P05 | Editar una tarea | Se actualizan sus datos. | Pendiente |
-| P06 | Completar una tarea | Cambia su estado a completada. | Pendiente |
-| P07 | Cancelar una eliminación | La tarea permanece en el listado. | Pendiente |
-| P08 | Confirmar una eliminación | La tarea desaparece del listado. | Pendiente |
-| P09 | Cerrar y volver a abrir la aplicación | Las tareas se conservan mediante Room. | Pendiente |
-| P10 | Activar el filtro de pendientes | Solo se muestran las tareas pendientes. | Pendiente |
-| P11 | Reiniciar la aplicación con el filtro activado | DataStore conserva la preferencia. | Pendiente |
-| P12 | Consultar la API con Internet | Se muestran las tareas de ejemplo. | Pendiente |
-| P13 | Consultar la API sin Internet | Se muestra un mensaje de error. | Pendiente |
-| P14 | Reintentar la consulta recuperando Internet | Se cargan las tareas de ejemplo. | Pendiente |
-| P15 | Compartir una tarea | Se abre el selector de aplicaciones. | Pendiente |
-| P16 | Girar el dispositivo durante la creación de una tarea | Se conservan los datos del formulario. | Pendiente |
-| P17 | Girar el dispositivo con los ejemplos descargados | Se conservan los ejemplos. | Pendiente |
-| P18 | Girar durante la consulta inicial a la API | Se recupera automáticamente la consulta. | Pendiente |
-| P19 | Ejecutar la aplicación en ambos emuladores | La interfaz se adapta correctamente. | Pendiente |
+| P01 | Crear una tarea válida | La tarea aparece en el listado. | Correcto |
+| P02 | Introducir un título vacío | Se muestra un mensaje de error. | Correcto |
+| P03 | Introducir un título de menos de tres caracteres | No se permite guardar. | Correcto |
+| P04 | Crear una tarea sin descripción | La tarea se guarda correctamente. | Correcto |
+| P05 | Editar una tarea | Se actualizan sus datos. | Correcto |
+| P06 | Completar una tarea | Cambia su estado a completada. | Correcto |
+| P07 | Cancelar una eliminación | La tarea permanece en el listado. | Correcto |
+| P08 | Confirmar una eliminación | La tarea desaparece del listado. | Correcto |
+| P09 | Cerrar y volver a abrir la aplicación | Las tareas se conservan mediante Room. | Correcto |
+| P10 | Activar el filtro de pendientes | Solo se muestran las tareas pendientes. | Correcto |
+| P11 | Reiniciar la aplicación con el filtro activado | DataStore conserva la preferencia. | Correcto |
+| P12 | Consultar la API con Internet | Se muestran las tareas de ejemplo. | Correcto |
+| P13 | Consultar la API sin Internet | Se muestra un mensaje de error. | Correcto |
+| P14 | Reintentar la consulta recuperando Internet | Se cargan las tareas de ejemplo. | Correcto |
+| P15 | Compartir una tarea | Se abre el selector de aplicaciones. | Correcto |
+| P16 | Girar el dispositivo durante la creación de una tarea | Se conservan los datos del formulario. | Correcto |
+| P17 | Girar el dispositivo con los ejemplos descargados | Se conservan los ejemplos. | Correcto |
+| P18 | Girar durante la consulta inicial a la API | Se recupera automáticamente la consulta. | Correcto |
+| P19 | Ejecutar la aplicación en ambos emuladores | La interfaz se adapta correctamente. | Correcto |
 
 ## 8. Capturas de pantalla
 
