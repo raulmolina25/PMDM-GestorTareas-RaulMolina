@@ -105,27 +105,27 @@ Durante las pruebas se utilizan dos emuladores con diferentes configuraciones pa
 
 ### Listado principal
 
-![Listado principal](capturas/listado.png)
+<img width="389" height="866" alt="image" src="https://github.com/user-attachments/assets/290b2b77-3a7c-482a-b6a8-85f2f0df264a" />
 
 ### Formulario de creación
 
-![Formulario de creación](capturas/formulario.png)
+<img width="391" height="863" alt="image" src="https://github.com/user-attachments/assets/bf6e7c1d-f7c1-485e-8573-1f35cf3d9246" />
 
 ### Consulta de tareas desde la API
 
-![Consulta a la API](capturas/api.png)
+<img width="391" height="862" alt="image" src="https://github.com/user-attachments/assets/d085a179-4166-4309-a8c2-b53f1fac9dbb" />
 
 ### Confirmación de eliminación
 
-![Confirmación de eliminación](capturas/eliminar.png)
+<img width="399" height="866" alt="image" src="https://github.com/user-attachments/assets/ec83916f-c6f7-4d27-a4b5-7964bf1c9216" />
 
 ### Filtro de tareas pendientes
 
-![Filtro de pendientes](capturas/filtro.png)
+<img width="390" height="864" alt="image" src="https://github.com/user-attachments/assets/2a0f23cb-bb8f-434f-8b1b-c75f1d3f5d89" />
 
 ### Compartir una tarea
 
-![Compartir tarea](capturas/compartir.png)
+<img width="414" height="867" alt="image" src="https://github.com/user-attachments/assets/7c5bd5f9-9fa9-4feb-a70c-08f54972a80a" />
 
 ## 9. Uso de inteligencia artificial
 
